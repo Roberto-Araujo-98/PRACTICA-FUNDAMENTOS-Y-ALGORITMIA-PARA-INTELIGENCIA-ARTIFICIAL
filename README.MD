@@ -30,3 +30,17 @@ PRACTICA-FUND-ALGOR-IA/
 │
 └── 🧪 Pruebas Varias
     └── Pruebita.ipynb
+
+🛠️ Contenido de los Módulos
+1. Visualización de Datos (TAL_MATPLOT_*.ipynb)
+Talleres prácticos enfocados en el análisis exploratorio y la graficación gráfica de datos utilizando bibliotecas como Pandas y Matplotlib.
+
+Conceptos clave: Creación de DataFrames, agrupación de datos, gráficos de barras (plt.bar), análisis de ventas y métricas clave.
+
+2. Redes Neuronales Artificiales (TAL_RNA_TF*.ipynb)
+Ejercicios enfocados en el desarrollo e implementación de modelos de aprendizaje profundo utilizando TensorFlow y Keras.
+
+Conceptos clave: Arquitectura de Redes Neuronales Artificiales (RNA), capas densas, funciones de activación, entrenamiento y evaluación de modelos.
+
+3. Entorno de Pruebas (Pruebita.ipynb)
+Cuaderno auxiliar para pruebas rápidas de código y verificación del entorno.
