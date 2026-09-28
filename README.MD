@@ -31,6 +31,7 @@ PRACTICA-FUND-ALGOR-IA/
 └── 🧪 Pruebas Varias
     └── Pruebita.ipynb
 
+
 🛠️ Contenido de los Módulos
 1. Visualización de Datos (TAL_MATPLOT_*.ipynb)
 Talleres prácticos enfocados en el análisis exploratorio y la graficación gráfica de datos utilizando bibliotecas como Pandas y Matplotlib.
