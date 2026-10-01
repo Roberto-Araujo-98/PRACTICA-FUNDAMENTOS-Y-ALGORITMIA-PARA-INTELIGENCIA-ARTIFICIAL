@@ -11,6 +11,13 @@ El repositorio está organizado por módulos prácticos según la temática trab
 ```text
 PRACTICA-FUND-ALGOR-IA/
 │
+├── ⚙️ Aprendizaje Automático / Scikit-Learn (o Algoritmos Supervisados)
+│   ├── PAUTA_SKLEARN_001.ipynb
+│   ├── TAL_AS_005.ipynb
+│   ├── TAL_AS_006.ipynb
+│   ├── TAL_AS_007.ipynb
+│   └── TAL_SKLEARN_001.ipynb
+│
 ├── 📊 Visualización de Datos (Matplotlib / Pandas)
 │   ├── TAL_MATPLOT_001.ipynb
 │   ├── TAL_MATPLOT_002.ipynb
@@ -28,8 +35,12 @@ PRACTICA-FUND-ALGOR-IA/
 │   ├── TAL_RNA_TF_9.ipynb
 │   └── TAL_RNA_TF_10.ipynb
 │
-└── 🧪 Pruebas Varias
-    └── Pruebita.ipynb
+├── 🧪 Pruebas Varias / Borradores
+│   ├── PRUEBA_TAL_SKLEARN.ipynb
+│   ├── PRUEBA_TAL_SKLEARN_002.ipynb
+│   └── Pruebita.ipynb
+│
+└── 📄 README.MD
 
 
 🛠️ Contenido de los Módulos
